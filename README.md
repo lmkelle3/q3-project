@@ -26,5 +26,5 @@ Bookhouse location, added inventory, removed inventory, inventory description, b
 * View Book List
 * Navigation
 
-## MOCKUP:
-![mock up](https://photos.app.goo.gl/LeJtiLfXTzStuyYi9 "BookHouse Mockup")
+## LINK TO MOCKUP:
+[BookHouse MockUp](https://photos.app.goo.gl/LeJtiLfXTzStuyYi9)
