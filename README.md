@@ -20,9 +20,10 @@ Bookhouse location, added inventory, removed inventory, inventory description, b
 * Node.js/Express.js 
  
 ## A feature list:
-* Add book form
-* Search books/location
-* Edit book
+* Add Book Form
+* Search Books
+* Search Location
+* Edit Book
 * View Book List
 * Navigation
 
