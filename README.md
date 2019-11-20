@@ -29,3 +29,13 @@ Bookhouse location, added inventory, removed inventory, inventory description, b
 
 ## LINK TO MOCKUP:
 [BookHouse MockUp](https://photos.app.goo.gl/LeJtiLfXTzStuyYi9)
+
+## USER STORIES:
+* As a user, I want to navigate from the login page to the home page, so that I can use the app.
+* As a user, I want to add a book to the inventory list of the Bookhouse I am at, so that I can update the inventory list.
+* As a user, I want to remove a book to the inventory list of the Bookhouse I am at, so that I can update the inventory list.
+* As a user, I want to view the book list for the bookhouse location that I have selected, so that I may select a book at that location.
+* As a user, I want to search the book list for a specific book, so that I may select a book at that location.
+* As a user, I want to update a specific book, so that I may have accurate information displayed about that book.
+* As a user, I want to view the location list for the bookhouse location that I am searching for, so that I may select a location.
+* As a user, I want to view the book list for the bookhouse location that I have selected, so that I may see which books are available.
